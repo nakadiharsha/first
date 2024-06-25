@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    background-color: rgb(116, 55, 173);
+    color: white;
+    text-align: center;
+}
+header nav ul{
+   list-style: none;
+   padding: 0;
+}
+header nav ul li{
+    display: inline;
+    margin: 0 15px;
+}
+header nav ul li a{
+    color: rgb(118, 169, 213);
+    text-decoration: none;
+    
+}
